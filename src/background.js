@@ -12,7 +12,8 @@ chrome.webRequest.onBeforeRequest.addListener(
             "*://steamstore-a.akamaihd.net/public/shared/images/*",
             "*://steamstore-a.akamaihd.net/public/images/*",
             "*://steamcommunity-a.akamaihd.net/public/shared/images/*",
-            "*://steamcommunity-a.akamaihd.net/public/images/*"
+            "*://steamcommunity-a.akamaihd.net/public/images/*",
+            "*://steamcommunity-a.akamaihd.net/economy/image/*"
         ]
     },
     ["blocking"]
