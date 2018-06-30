@@ -15,7 +15,8 @@
         "*://steamstore-a.akamaihd.net/*",
         "*://steamcommunity-a.akamaihd.net/*",
         "*://steamuserimages-a.akamaihd.net/*",
-        "*://cdn.steamstatic.com.8686c.com/*"
+        "*://cdn.steamstatic.com.8686c.com/*",
+        "*://steambroadcast.akamaized.net/*"
     ],
     "author": "https://github.com/dawoea",
     "homepage_url": "https://github.com/dawoea/ReplaceSteamCDN"
