@@ -2,7 +2,10 @@
     "manifest_version": 2,
     "name": "Replace Steam CDN",
     "version": "1.4.0",
-    "description": "Replace Steam CDN with Telescopium Lambda CDN.",
+    "description": "Replace Steam CDN with Addones CDN.",
+    "icons": {
+        "128": "icons/128.png"
+    },
     "background": {
         "scripts": ["background.js"]
     },
@@ -18,6 +21,6 @@
         "*://cdn.steamstatic.com.8686c.com/*",
         "*://steambroadcast.akamaized.net/*"
     ],
-    "author": "https://github.com/dawoea",
+    "author": "https://github.com/2er7",
     "homepage_url": "https://github.com/dawoea/ReplaceSteamCDN"
 }
