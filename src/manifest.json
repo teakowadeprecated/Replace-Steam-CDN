@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Replace Steam CDN",
-    "version": "1.4.0",
-    "description": "Replace Steam CDN with Addones CDN.",
+    "version": "1.5.0",
+    "description": "Replace Steam CDN with FSPNetwork CDN.",
     "icons": {
         "128": "icons/128.png"
     },
@@ -21,6 +21,6 @@
         "*://cdn.steamstatic.com.8686c.com/*",
         "*://steambroadcast.akamaized.net/*"
     ],
-    "author": "https://github.com/2er7",
-    "homepage_url": "https://github.com/dawoea/ReplaceSteamCDN"
+    "author": "https://github.com/teakowa",
+    "homepage_url": "https://github.com/Teakowa/Replace-Steam-CDN"
 }
