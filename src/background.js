@@ -13,6 +13,7 @@ chrome.webRequest.onBeforeRequest.addListener(
         urls: [
             "*://steamcdn-a.akamaihd.net/steam/*",
             "*://steamcdn-a.akamaihd.net/store/promo/*",
+            "*://steamcdn-a.akamaihd.net/store/labs/*",
             "*://steamcdn-a.akamaihd.net/steamcommunity/*",            
             "*://steamstore-a.akamaihd.net/public/shared/images/*",
             "*://steamstore-a.akamaihd.net/public/images/*",
